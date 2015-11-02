@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
-
+//ceshi
 
 public class MainActivity extends AppCompatActivity {
     //声明相关变量
